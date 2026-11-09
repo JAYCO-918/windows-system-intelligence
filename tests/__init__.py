@@ -1,0 +1,2 @@
+"""WSI test suite."""
+
